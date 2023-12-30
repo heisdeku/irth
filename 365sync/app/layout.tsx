@@ -3,7 +3,6 @@ import { Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
-import { TextRing } from "@/components/text-ring";
 import localFont from "next/font/local";
 const spaceGrotesk = Space_Grotesk({
     weight: ["600", "300", "400", "500", "700"],
